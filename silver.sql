@@ -16,7 +16,7 @@ CREATE TABLE SILVER_HOTEL_BOOKING (
 );
 
 select * from bronze_hotel_booking limit 500;
-
+ 
 
 -- Checking for errors
 SELECT customer_email
